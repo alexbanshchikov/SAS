@@ -1,0 +1,79 @@
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AngleSharp.dll
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\JetBrains.Annotations.dll
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VkNet.dll
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AngleSharp.xml
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\JetBrains.Annotations.xml
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VkNet.xml
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\bk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AngleSharp.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VkNet.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AngleSharp.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VkNet.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.dll.config
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Math.Core.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Math.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Statistics.dll
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Math.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Math.Core.xml
+C:\Users\Анна\Desktop\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Statistics.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.dll.config
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Math.Core.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Math.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Statistics.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AngleSharp.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VkNet.dll
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Math.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Math.Core.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Accord.Statistics.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AngleSharp.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VkNet.xml
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Анна\Desktop\Asus\6семестр\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
