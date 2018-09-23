@@ -40,7 +40,7 @@ namespace Angl_Lab1
         {
             user = new List<User>();
             ProfileFields pf = ProfileFields.FirstName | ProfileFields.LastName | ProfileFields.FriendLists;
-            var friend = vk.Friends.Get(new FriendsGetParams { UserId = vk.UserId, Fields = pf, Count = 5 }).ToArray();
+            var friend = vk.Friends.Get(new FriendsGetParams { UserId = vk.UserId, Fields = pf, Count = 7 }).ToArray();
 
 
             for (var i = 0; i < friend.Length - 1; i++)
